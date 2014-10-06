@@ -150,7 +150,7 @@
             (rand-int c-height)]]
    :color (contrast-color color)})
 
-;;; mutable section
+;;; non-pure section
 
 (defn reset-game [snake apple pause]
   "Resets game."
