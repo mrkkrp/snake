@@ -1,6 +1,6 @@
 # Snake
 
-Classic snake game in Clojure! Give it a try, it's beautiful ;-)
+Classic snake game in Clojure! Give it a try — it's beautiful ;-)
 
 ## Installation
 
@@ -26,6 +26,6 @@ $ java -jar snake-0.1.0-standalone.jar
 
 ## License
 
-Copyright (c) 2014 Mark Karpov
+Copyright © 2014 Mark Karpov
 
 Distributed under GNU GPL.
